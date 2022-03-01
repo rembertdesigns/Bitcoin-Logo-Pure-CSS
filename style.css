@@ -35,3 +35,20 @@ h1{
         transform: translateY(-5%);
     }
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #fff;
+    text-align: center;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #f7931a;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #000
+  }
